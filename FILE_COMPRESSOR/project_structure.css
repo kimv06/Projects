@@ -1,0 +1,8 @@
+FileZipper/
+├── src/
+│   ├── FileZipper.java
+│   ├── HuffmanNode.java
+│   ├── HuffmanTree.java
+│   ├── HuffmanEncoder.java
+│   └── BitOutputStream.java
+└── reverse_polish.txt
